@@ -2,7 +2,7 @@
 
 An end-to-end machine learning trading strategy project where we build, backtest, and evaluate ML-driven trading signals against the S&P 500 index (SPY) as a benchmark.
 
-This is my submission for Stock Markets Analytics Zoomcamp 2025 final project, fulfilling the requirements of designing, implementing, and automating an algo-trading pipeline.
+This is my submission for [Stock Markets Analytics Zoomcamp 2025](https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp) final project, fulfilling the requirements of designing, implementing, and automating an algo-trading pipeline.
 
 ## Project Overview
 
