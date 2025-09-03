@@ -36,7 +36,7 @@ ml-strategy-vs-sp500-benchmark/
 │── README.md              # Project documentation
 ```
 
-For more details on the script: [click here](/scripts/scripts.md).
+For more details on the scripts: [click here](/scripts/scripts.md).
 
 ## ⚙️ Installation
 
