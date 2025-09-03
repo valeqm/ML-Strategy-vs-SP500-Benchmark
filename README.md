@@ -35,6 +35,9 @@ ml-strategy-vs-sp500-benchmark/
 │── requirements.txt       # Dependencies
 │── README.md              # Project documentation
 ```
+
+For more details on the script, [click here](/scripts/scripts.md).
+
 ## ⚙️ Installation
 
 Clone the repo:
