@@ -63,21 +63,16 @@ python run_pipeline.py --start 2010-01-01 --benchmark_symbol SPY
 
 Options:
 
-`--train` → force retraining models
-
-`--end YYYY-MM-DD` → set end date
-
-`--tickers_source sp500` → choose stock universe (SP500 by default)
+- `--train` → force retraining models
+- `--end YYYY-MM-DD` → set end date
+- `--tickers_source sp500` → choose stock universe (SP500 by default)
 
 Outputs:
 
-`output/portfolio_threshold_series.csv` → backtest curve + metrics
-
-`output/SPY_benchmark.csv` → benchmark curve
-
-`output/dashboard_data.csv` → combined curves
-
-`output/dashboard_metrics.csv` → strategy vs benchmark metrics
+- `output/portfolio_threshold_series.csv` → backtest curve + metrics
+- `output/SPY_benchmark.csv` → benchmark curve
+- `output/dashboard_data.csv` → combined curves
+- `output/dashboard_metrics.csv` → strategy vs benchmark metrics
 
 You can also download/see the final outputs from my Google Drive :
 
