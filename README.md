@@ -18,7 +18,7 @@ The pipeline covers:
 - **Benchmarking** – Compare strategy performance against SPY cumulative returns.  
 - **Automation** – Full pipeline executed via `run_pipeline.py`.
 
-For more details: [Click Here](/scripts/scripts.md).
+For more details: [Click Here](/scripts/scripts_doc.md).
 
 ## 📂 Repository Structure
 
