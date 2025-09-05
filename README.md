@@ -18,6 +18,8 @@ The pipeline covers:
 - **Benchmarking** – Compare strategy performance against SPY cumulative returns.  
 - **Automation** – Full pipeline executed via `run_pipeline.py`.
 
+For more details: [Click Here](/scripts/scripts.md).
+
 ## 📂 Repository Structure
 
 ```sh
@@ -35,8 +37,6 @@ ml-strategy-vs-sp500-benchmark/
 │── requirements.txt       # Dependencies
 │── README.md              # Project documentation
 ```
-
-For more details on the scripts: [click here](/scripts/scripts.md).
 
 ## ⚙️ Installation
 
