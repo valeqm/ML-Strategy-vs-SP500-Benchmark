@@ -1,4 +1,4 @@
-# Algorithmic Trading Project - README
+# Scripts Documentation
 
 ## data_fetch.py
 **Purpose:** Download stock tickers and historical price data for the S&P 500.  
