@@ -79,7 +79,7 @@ Outputs:
 
 `output/dashboard_metrics.csv` → strategy vs benchmark metrics
 
-You can also download see the final outputs from my Google Drive :
+You can also download/see the final outputs from my Google Drive :
 
 🔗 [ML Strategy Results Drive Folder](https://drive.google.com/drive/folders/1KaguxuFx44iSP58NgmiXlZ422X80aZhg?usp=sharing) 
 
